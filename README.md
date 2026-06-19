@@ -1,4 +1,4 @@
-`Sales & Demand Forecasting using the Superstore Dataset
+Sales & Demand Forecasting using the Superstore Dataset
 
 Future Interns – Machine Learning Task 1 
 

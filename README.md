@@ -1,11 +1,14 @@
-Sales and Demand Forecasting using Machine Learning
- 
-This project is a Machine Learning-based Sales and Demand Forecasting system designed to analyze historical sales data and predict future sales trends. The main goal is to support business decision-making by providing insights into demand patterns over time.
-
-The project involves data cleaning, preprocessing, and feature engineering from time-based attributes such as date, month, and year. A regression-based machine learning model is trained on historical sales data to generate predictions.
-
-The model’s performance is evaluated using standard error metrics such as Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE). The results are visualized using graphs that compare actual sales with predicted values, helping to clearly understand trends and forecasting accuracy.
-
-This project demonstrates how machine learning can be applied in real-world business scenarios such as inventory planning, demand estimation, and sales optimization.
-
-Author: by Devaki
+About the Task
+In this task, you will build a sales or demand forecasting system using historical business data.
+Sales forecasting is one of the most widely used Machine Learning applications in real businesses. Companies rely on forecasts to:
+- Plan inventory
+- Manage cash flow
+- Prepare staffing
+- Avoid overstocking or losses
+This task helps you understand how Machine Learning supports real business decisions, not just how to train a model.
+Objective
+Your goal is to predict future sales or demand based on past data and present the results in a clear, business-friendly way.
+Instead of focusing only on accuracy, you will also learn:
+- How to prepare time-based data
+- How to explain trends and seasonality
+- How forecasts help business planning 
